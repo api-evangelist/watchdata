@@ -1,0 +1,32 @@
+aid: watchdata
+name: Watchdata
+description: "Provide simple and reliable API access to Ethereum blockchain"
+url: https://docs.watchdata.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Blockchain"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Blockchain
+  - Public APIs
+apis:
+  - name: Watchdata
+    description: "Provide simple and reliable API access to Ethereum blockchain"
+    humanURL: https://docs.watchdata.io
+    baseURL: https://docs.watchdata.io
+    tags:
+      - Blockchain
+    properties:
+      - type: Documentation
+        url: https://docs.watchdata.io
+common:
+  - type: Website
+    url: https://docs.watchdata.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
