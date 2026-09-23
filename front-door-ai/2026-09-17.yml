@@ -1,0 +1,26 @@
+# Front Door AI Index — watchdata — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: watchdata
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: docs.watchdata.io
+  final_host: docs.watchdata.io
+  ownership: own
+  owner: watchdata
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 1
+  host_score: 1
+  density: 1.93
+  words: 517
+  tiers:
+    agentic: 1
+    core: 0
+    model: 0
+  ambiguous: 2
+  top_terms:
+    smart: 2
+    llms.txt: 1
