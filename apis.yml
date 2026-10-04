@@ -39,7 +39,6 @@ apis:
   - name: Watchdata
     description: "Provide simple and reliable API access to Ethereum blockchain"
     humanURL: https://docs.watchdata.io
-    baseURL: https://docs.watchdata.io
     tags:
       - Blockchain
     properties:
